@@ -1,0 +1,1 @@
+Create alert every time that this service throws more than 5 errors in a minute for more than 10 minutes. The alert should be in my Datadog and to send a slack notification to the alerts channel.
