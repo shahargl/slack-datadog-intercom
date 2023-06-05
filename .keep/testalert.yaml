@@ -1,0 +1,5 @@
+alert: |
+	Send slack message when there more than 5 5xx's for more than 5 minutes
+	Tag @shahargl in the message and send it to #alerts-playground
+
+provider: grafana
